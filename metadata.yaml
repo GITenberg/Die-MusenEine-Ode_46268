@@ -1,0 +1,34 @@
+_repo: Die-MusenEine-Ode_46268
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Blei, Franz
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '39373'
+    url: http://www.gutenberg.org/2009/agents/39373
+covers:
+- cover_type: archival
+  image_path: 46268-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Claudel, Paul
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '43686'
+    url: http://www.gutenberg.org/2009/agents/43686
+description: ''
+gutenberg_issued: '2014-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46268'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry -- Translations into German'
+- !lcsh 'Muses (Greek deities) -- Poetry'
+- !lcc 'PQ'
+title: 'Die Musen: Eine Ode'
+url: http://www.gutenberg.org/ebooks/46268
